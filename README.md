@@ -40,7 +40,7 @@ I'm a nurse on a transformative journey into the world of UX/UI design, currentl
 
 ## 📫 Let's Connect
 
-- [https://www.linkedin.com/in/tika-oliver/](Your LinkedIn Profile Link)
+- [LinkedIn](https://www.linkedin.com/in/tika-oliver/)
 - [Portfolio](Link to Your Portfolio)
 - [Twitter](Your Twitter Profile Link)
 
