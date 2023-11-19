@@ -28,21 +28,9 @@ I'm a nurse on a transformative journey into the world of UX/UI design, currentl
 - **Prototyping:** InVision.
 - **Version Control:** Git, GitHub.
 
-## 🚀 My Design Projects
-
-### [Healthcare Dashboard Concept](Link to Project 1)
-- Designed a dashboard prototype tailored for healthcare professionals to streamline information access.
-- Incorporated feedback from healthcare colleagues for user-centric enhancements.
-
-### [Personal Portfolio Redesign](Link to Project 2)
-- Revamped my portfolio to reflect my evolving design skills and showcase UX/UI projects.
-- Implemented responsive design principles for a seamless user experience.
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tika-oliver/)
-- [Portfolio](Link to Your Portfolio)
-- [Twitter](Your Twitter Profile Link)
 
 I'm excited about merging my nursing background with design expertise. Let's connect and explore the intersection of healthcare and user experience! 😊
 
