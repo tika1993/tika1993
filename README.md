@@ -1,6 +1,6 @@
 # Hello! I'm Tika Oliver 👋
 
-I'm a nurse on a transformative journey into the world of UX/UI design, currently pursuing an associate's degree in Web and UX Design. Welcome to my GitHub profile!
+I'm a nurse on a transformative journey into the world of UI/UX design, currently pursuing an associate's degree in Web and UX Design. Welcome to my GitHub profile!
 
 ## 🌟 About Me
 
